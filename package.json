@@ -1,0 +1,15 @@
+{
+  "name": "pemm-cms",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "CONFIG_PATH='/Users/henokalem/Code/pemm-cms/.env' npx directus start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@directus/sdk": "^10.3.3"
+  },
+  "type": "module"
+}
